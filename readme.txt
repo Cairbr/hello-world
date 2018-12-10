@@ -1,2 +1,1 @@
-One simply does not use rm -rf
-burp.
+One does not simply use rm -rf
